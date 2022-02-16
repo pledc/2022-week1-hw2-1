@@ -1,0 +1,19 @@
+.col-sm-6 {
+    margin: 1rem 1rem;
+    margin-left: -15rem;
+    padding: 2rem 2rem;
+    /* border: 2em solid black; */
+}
+
+.container {
+    display: flex;
+}
+
+
+.card-img-top {
+    height: 80%;
+    width: 80%;
+}
+/* .spacer {
+height: 0vh;
+} */
